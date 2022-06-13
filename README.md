@@ -1,5 +1,5 @@
 # Robot_Package_Retrieval
-<br> 
+
 ## Objective <br> 
 The objective of our project is to design and build an automated robot car that will use different sensors to locate, retrieve and drop off a package to a predetermined location. The objective is to create an autonomous vehicle that can retrieve a package and return it back to the vehicle’s starting position. An Arduino and Raspberry Pi is used to aid in making the vehicle autonomous. The ultrasonic sensor along with a camera module are the equivalent of a pair of eyes for the vehicle. The chassis of the vehicle was first drafted in AutoCAD and later translated over to SolidWorks for more ease of use when viewing the design. The car will be utilizing two motors to drive the car. One will be for the front, and another will be for the rear wheels. The car will be rear wheel drive meaning the back 2 wheels will oversee generating all the power while the front 2 wheels are going to oversee directional motion.<br> 
 
